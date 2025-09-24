@@ -6,7 +6,7 @@ To understand and apply ER modeling concepts by creating ER diagrams for real-wo
 ## Purpose
 Gain hands-on experience in designing ER diagrams that represent database structure including entities, relationships, attributes, and constraints.
 
----
+--- 
 
 # Scenario A: City Fitness Club Management
 
